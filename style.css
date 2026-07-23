@@ -183,3 +183,29 @@ footer .container{
     display:flex;
     justify-content:space-between;
 }
+
+.news-btn{
+    display:block;
+    width:100%;
+    padding:10px;
+    background:#0d6efd;
+    color:#fff;
+    text-decoration:none;
+    text-align:center;
+    border-radius:5px;
+    font-weight:bold;
+    transition:0.3s;
+}
+
+.news-btn:hover{
+    background:#0b5ed7;
+}
+
+.card ul{
+    list-style:none;
+    padding:0;
+}
+
+.card ul li{
+    margin-bottom:10px;
+}
